@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Main {
+public class atividade1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         DecimalFormat df = new DecimalFormat("0.00");
@@ -15,6 +15,7 @@ public class Main {
         Double somaDasNotas = 0.0;
         String mediaFormatado = "";
 
+        System.out.print("\n** CADASTRO DE AVALIAÇÕES **\n");
         System.out.print("\nInformar quantidade de Filmes: ");
         quantidadeFilmes = sc.nextInt();
         notaDosFilmes = new Double[quantidadeFilmes];
