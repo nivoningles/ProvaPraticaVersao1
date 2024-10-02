@@ -64,6 +64,7 @@ public class atividade2 {
             System.out.println("Então deu empate entre Alessandro e Rodrigo");
         } else if (votosTaffe == votosLucas && votosTaffe > votosAlessandro && votosRodrigo == votosAlessandro) {
             System.out.println("Então deu empate entre Taffe e Lucas");
+
         }
     }
 }
