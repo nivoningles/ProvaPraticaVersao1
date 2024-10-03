@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78170746-7fd7-4bf4-aee6-21d50d541928" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/atividade1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atividade2.java" afterDir="false" />
+    <list default="true" id="78170746-7fd7-4bf4-aee6-21d50d541928" name="Changes" comment="Provas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atividade2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/atividade2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,11 +76,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727908357574</updated>
-      <workItem from="1727908358650" duration="4775000" />
+      <workItem from="1727908358650" duration="5427000" />
     </task>
+    <task id="LOCAL-00001" summary="Provas">
+      <option name="closed" value="true" />
+      <created>1727913203732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727913203732</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Provas">
+      <option name="closed" value="true" />
+      <created>1727913226915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727913226915</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Provas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Provas" />
   </component>
 </project>
